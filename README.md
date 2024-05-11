@@ -3,9 +3,9 @@
 #### 介绍
 福建省重点研发项目------果蔬智能分选
 
-1. 从gitee中下载下来[passion2024: 百香果与西红柿分级系统 (gitee.com)](https://gitee.com/wu-min666/passion2024)
 2. 同时下载对应的RGB、光谱、opencv的sdk，以及debug（QT编译文件以及包含光谱相机配置文件settings）
 3. 修改.pro里的路径
+3. 代码从wiget.cpp开始看
 
 
 
