@@ -3,7 +3,7 @@
 #### 介绍
 福建省重点研发项目------果蔬智能分选
 
-2. 同时下载对应的RGB、光谱、opencv的sdk，以及debug（QT编译文件以及包含光谱相机配置文件settings）
+2. 同时下载对应的RGB、光谱、opencv的sdk，以及debug（QT编译文件以及包含光谱相机配置文件settings），在GitHub右侧的release版本里面找到最近的
 3. 修改.pro里的路径
 3. 代码从wiget.cpp开始看
 
