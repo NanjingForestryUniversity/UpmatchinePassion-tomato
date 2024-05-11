@@ -1,0 +1,11 @@
+debug/camera.o
+debug/main.o
+debug/modbus-data.o
+debug/modbus-rtu.o
+debug/modbus-tcp.o
+debug/modbus.o
+debug/thread.o
+debug/widget.o
+debug/moc_camera.o
+debug/moc_thread.o
+debug/moc_widget.o

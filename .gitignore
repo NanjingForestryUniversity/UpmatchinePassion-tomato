@@ -1,0 +1,65 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+=======
+=======
+>>>>>>> 8c8f42896f9ce7278b17e528952b417e775bcbb8
+>>>>>>> 2b89ef0 (202304passion)
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 8c8f42896f9ce7278b17e528952b417e775bcbb8
+=======
+>>>>>>> 8c8f42896f9ce7278b17e528952b417e775bcbb8
+>>>>>>> 2b89ef0 (202304passion)
