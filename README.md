@@ -4,19 +4,7 @@ UpmatchinePassion-tomato
  文件夹：
 ├─***CameraConfig***
 ├─debug
-│  ├─bearer
-│  ├─CameraConfig
-│  ├─debug
-│  ├─iconengines
-│  ├─imageformats
-│  ├─Log
-│  ├─platforms
-│  ├─release
 │  ├─***Settings***
-│  │  └─401d
-│  ├─styles
-│  └─translations
-├─dll
 ├─***image***
 │  ├─L
 │  ├─R
@@ -26,22 +14,8 @@ UpmatchinePassion-tomato
 │      ├─middle
 │      └─top
 ├─***opencv***
-│  ├─include
-│  │  ├─CMakeFiles
-│  │  ├─opencv
-│  │  └─opencv2
-│  │     
-│  └─Withcontrib
-│      └─include
-│          ├─opencv
-│          └─opencv2
-├─release
 ├─***rgbcamera_sdk***
-│  ├─Includes
-│  └─Libraries
 ├─***RT_SDK***
-│  ├─include
-│  ├─lib
 └─**src**
 
 ## 0 引言
